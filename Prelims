@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport">
+    <title>Prelims</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>    
+    <div class="container">
+      <div class="header">
+        <div class="img-area">
+            <img src="images/picture.jpg" alt="">
+        </div>
+        <h1>Raymart Sta. Maria Joson</h1>
+      </div>
+      <div class="main">
+        <div class="left">
+          <h2>Personal Information</h2>
+          <p><strong>Age:</strong> 32</p>
+          <p><strong>Email:</strong> rymrtjsn@email.com</p>
+          <p><strong>Contact Number:</strong> 09760143890</p>
+          <h2>Skills</h2>
+            <p>HTML/CSS</p>
+            <p>Fast Learner</p>
+            <p>Computer Literate</p>
+          <h2>Education</h2>
+          <h3>Bachelor of Science in Information Technology (BSIT)</h3>
+          <p>Dalubhasaang Politekniko ng Lungsod ng Baliwag</p>
+          <p>2021-Present</p><br>
+        </div>
+        <div class="right">
+          <h2>Work Experience</h2>
+          <h3>OLM Institute of Science and Technology Inc.</h3>
+          <p><strong>Position:</strong> I.T. Staff</p>
+          <p><strong>Duration:</strong> 2017-Present</p>
+          <p>I'm responsible for the installation, maintenance, repair, and troubleshooting of computer hardware and software systems.
+          </p><br>
+          <hr>
+          <br>
+          <h3>Maimai Computers</h3>
+          <p><strong>Position:</strong> Computer Attendant</p>
+          <p><strong>Duration:</strong> 2010-2015</p>
+          <p>I'm responsible for tending the needs of the Customer.</p>
+        </div>
+      </div>
+    </div> 
+</body>
+</html>
+
